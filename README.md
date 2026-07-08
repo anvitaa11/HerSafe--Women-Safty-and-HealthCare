@@ -93,4 +93,19 @@ The app helps users stay connected with trusted contacts during emergencies whil
 ---
 
 # 📂 Project Structure
-<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/0c3baa2d-7b40-4b30-8d8c-6bd296f874d3" />
+ 
+ 
+
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]() 
+
+
+
+
+
+
+
+
