@@ -94,14 +94,29 @@ The app helps users stay connected with trusted contacts during emergencies whil
 
 # 📂 Project Structure
  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c050f21b-5bd1-4984-a7ed-a70ef5c5a537" width="220"/>
+  <img src="https://github.com/user-attachments/assets/b96e7054-b284-4b49-9b96-c2e6844b0233" width="220"/>
+  <img src="https://github.com/user-attachments/assets/53bb57a8-8e08-4f38-acf5-3a9c6583c6f9" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ddead92-51c7-4ec8-8f5e-0b5a2d233e82" width="220"/>
+  <img src="https://github.com/user-attachments/assets/2fff8046-41d8-4002-990e-44abecc33050" width="220"/>
+  <img src="https://github.com/user-attachments/assets/e559b1d4-cfe2-4691-a387-0189911dfe56" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80f040ec-08be-42a3-bd27-f492df5ac685" width="220"/>
+  <img src="https://github.com/user-attachments/assets/2a7e4ba5-c3c0-48ca-8622-50e83d638e06" width="220"/>
+  <img src="https://github.com/user-attachments/assets/93221e4d-f2ed-489c-a48e-9fd074e43d0a" width="220"/>
+</p>
+
+
+
+
+
  
-
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]() 
-
 
 
 
